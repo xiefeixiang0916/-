@@ -1,0 +1,18 @@
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #f3f3f3;
+}
+
+.layui-card {
+    margin: 20px 20px 0 20px;
+}
+
+.layui-card-header {
+    display: flex;
+    justify-content: space-between;  /*让里面的内容两端对齐*/
+    align-items: center;  /* 让内容垂直居中 */
+}
